@@ -1,0 +1,1 @@
+Logical exercises written by me for a interview.
